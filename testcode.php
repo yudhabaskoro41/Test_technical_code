@@ -37,6 +37,10 @@
             }
         }
     }
+    if(isset($_POST["gs"])){
+        $input = $_POST["input"];
+        
+    }
     ?>
 </body>
 </html>
